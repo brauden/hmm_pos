@@ -1,5 +1,5 @@
 ## Question 3 
-### Group work: Dauren Bizhanov and John Owusu Duah
+
 #### Infer the sequence of states for sentences 10150-10152 of the Brown corpus and compare against the truth.
 
 
